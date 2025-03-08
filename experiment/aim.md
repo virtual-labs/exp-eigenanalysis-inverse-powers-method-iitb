@@ -1,1 +1,1 @@
-### Aim of the experiment
+﻿<h2>AIM: To study inverse powers method</h2>

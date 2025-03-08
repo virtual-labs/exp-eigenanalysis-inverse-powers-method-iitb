@@ -1,0 +1,20 @@
+[
+   {
+      "question": "<span style='display: inline-block;'>$$ \\ A = \\left[ \\begin{matrix} 10 & -5 \\\\ -3 & 11 \\end{matrix} \\right] $$</span> Find determinant.",
+      "qid": 1,
+      "option_a": "63",
+      "option_b": "95",
+      "option_c": "76",
+      "option_d": "84",
+      "correct_option": "b"
+   },
+   {
+      "question": "<span style='display: inline-block;'>$$ \\ A = \\left[ \\begin{matrix} 13 & -2 \\\\ -3 & 14 \\end{matrix} \\right] $$</span> Find determinant.",
+      "qid": 2,
+      "option_a": "153",
+      "option_b": "162",
+      "option_c": "176",
+      "option_d": "148",
+      "correct_option": "c"
+   }
+]
